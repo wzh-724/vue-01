@@ -1,0 +1,79 @@
+{
+  "id": "2619792",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12276548",
+      "name": "30 --第三方成本应付发票暂估报账单",
+      "font_class": "--disanfangchengbenyingfufapiaozangubaozhangdan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "134672",
+      "name": "里程",
+      "font_class": "licheng1",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "2038792",
+      "name": "汽车-22",
+      "font_class": "qicheqianlian-",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2038797",
+      "name": "汽车-28",
+      "font_class": "qicheqianlian-1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "5325324",
+      "name": "支出",
+      "font_class": "zhichu",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "5344985",
+      "name": "支出",
+      "font_class": "zhichu1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "16357286",
+      "name": "汽车",
+      "font_class": "icon270c_car",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "17770176",
+      "name": "续航里程",
+      "font_class": "xuhanglicheng",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "20226386",
+      "name": "上升",
+      "font_class": "shangsheng",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21830688",
+      "name": "加油",
+      "font_class": "jiayou",
+      "unicode": "f600",
+      "unicode_decimal": 62976
+    }
+  ]
+}
